@@ -28,7 +28,7 @@ body {
 #wrap {
 	max-width: 940px;
 	margin: 0 auto;
-	padding: 0 5%;
+	padding: 0;
 }
 
 a {
@@ -72,15 +72,47 @@ header h2 {
 
 
 /*----------------------------
+	3. Section: Intro
+-----------------------------*/
+
+#intro {
+	margin: 0 15px 0 15px;
+}
+
+
+/*----------------------------
+	4. Section: Web Design
+-----------------------------*/
+
+#web_design {
+	float: left;
+	margin: 0;
+	padding: 0 15px 0 15px;
+	background-color: #4baad3;
+}
+
+.service_img {
+	
+	margin: 5;
+}
+
+
+
+/*----------------------------
 	#. Colors
 -----------------------------*/
 
 header {
-	background-color: #18779b;
+	background-color: #0B62A4;
 }
 
-a {
+header a {
 	color: #fff;
+}
+
+
+a {
+	
 }
 
 
