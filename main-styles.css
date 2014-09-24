@@ -1,0 +1,87 @@
+/*-----------------------------
+
+		Main CSS Stylesheet
+		William O'Loughlin
+		IT Services Website
+
+-------------------------------*/
+
+/*----------Contents-----------
+	
+	1. General
+	2. Heading
+	3.
+	4.
+	5.
+
+------------------------------*/
+
+/*----------------------------
+	1. General
+-----------------------------*/
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: -21px 0 0 0;
+}
+
+#wrap {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+a {
+	text-decoration: none;
+}	
+
+img {
+	max-width: 100%; 
+}
+
+/*----------------------------
+	2. Heading
+-----------------------------*/
+
+header {
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 25px 0 25px 0;
+	width: 100%;
+	border-bottom: 5px solid #25b0e3;
+}
+
+#title {
+	text-align: center;
+	margin: 0;
+}
+
+header h1 {
+	font-family: 'Open Sans', sans-serif;
+	margin: 5px 0 5px 0;
+	font-size: 1.75em;
+	font-weight: 800;
+	line-height: 0.8em;
+}
+
+header h2 {
+	font-size: 1.5em;
+	margin: 15px 0 0;
+	font-weight: extrabold;
+}
+
+
+/*----------------------------
+	#. Colors
+-----------------------------*/
+
+header {
+	background-color: #18779b;
+}
+
+a {
+	color: #fff;
+}
+
+
+
